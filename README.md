@@ -1,4 +1,4 @@
-##Esta es mi version del juego de Sergie Code
+# Esta es mi version del juego de Sergie Code
 
 
 ## Link al curso completo de Javascript en Youtube:
